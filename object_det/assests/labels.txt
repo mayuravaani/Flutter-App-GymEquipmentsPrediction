@@ -1,0 +1,10 @@
+0 abswing
+1 abwheel
+2 barbell
+3 butterflygymmachine
+4 dumbell
+5 obitrack
+6 rowingmachine
+7 situpbench
+8 spinbike
+9 treadmill
